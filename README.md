@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Khondamir Abdukhoshimov" />
+  <img src="https://raw.githubusercontent.com/iCloudBMX/iCloudBMX/master/name.svg" alt="Khondamir Abdukhoshimov" />
 </h1>
 
 ### Hi there 👋
