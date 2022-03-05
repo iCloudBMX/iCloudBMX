@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Khondamir 👋
 
-> A software engineer building awesome web back/front stuff using .NET tech-stack at `EPAM Systems Inc`. A proud co-founder of `.NET Uzbekistan Community` where we educate and help future software engineers. A teacher of `PDP Academy` where we 
+> A software engineer building awesome web back/front stuff using .NET tech-stack at `EPAM Systems Inc`. A proud co-founder of `.NET Uzbekistan Community` where we make live streams and events to increase the .NET development in Uzbekistan. A teacher of `PDP Academy` where we educate future software engineers.
 <br/><br/>
 
 <!-- Social icons section -->
